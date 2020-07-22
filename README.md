@@ -1,2 +1,3 @@
 # videojuego
-Videojuego hecho en unity Explorando
+Videojuego hecho en unity 
+Nombre del juego: Explorando!
